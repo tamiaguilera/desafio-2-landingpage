@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    font-family: 'Handlee', cursive;
+}
+header{
+    background-image: url('./../img/torta1.jpg');
+    background-size: cover;
+    background-position: top;
+    height: 20em;
+    padding: 2em;
+    color: rgb(33, 12, 3);
+    font-size: 30px;
+}
+.product{
+    margin: 10em;
+    
+    
+}
+.product img{
+    width: 20em;
+    max-width: 20em;
+    border-style: double;
+}
+.product .detalle{
+    display: inline-block;
+    margin: 0 0 0 1em;
+}
+.product p{
+
+}
+
+footer{
+
+    background-color: rgb(209, 118, 27);
+    padding: 1em;
+    text-align: center;
+    
+}
